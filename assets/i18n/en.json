@@ -55,7 +55,7 @@
                                     },
                                     {
                                         "type": "text",
-                                        "text": "Engage young leaders from different communities in Brazil and around the world to become true agents of change where they live and, thus, conquer opportunities and places of speech.",
+                                        "text": "Establish embassies in different communities in Brazil and around the world, strengthening a generation of young leaders who collectively change their surroundings.",
                                         "size": "text"
                                     }
                                 ]
@@ -119,10 +119,6 @@
                         "type": "text",
                         "text": "We develop projects based on the United Nations Sustainable Development Goals. Get to know the initiatives implemented by our volunteers",
                         "size": "text"
-                    },
-                    {
-                        "type": "button",
-                        "text": "Projetos"
                     }
                 ]
             },
@@ -203,10 +199,6 @@
                         "type": "text",
                         "text": "CF embassies are groups of young people who come together to work together towards sustainable development and the UN SDGs in their schools, universities, communities, cities and regions.",
                         "size": "text"
-                    },
-                    {
-                        "type": "button",
-                        "text": "Projects"
                     }
                 ]
             },
