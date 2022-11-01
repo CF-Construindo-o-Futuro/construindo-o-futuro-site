@@ -1,0 +1,256 @@
+{
+    "pages": {
+        "Home": [
+            {
+                "background": "/assets/images/photos/roda.jpg",
+                "alignment": "center",
+                "size": "main",
+                "structure": [
+                    {
+                        "type": "image",
+                        "image": "assets/images/logo/logo-white.svg",
+                        "size": "main"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Teenagers for",
+                        "size": "main"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Sustainable Development",
+                        "size": "main-2"
+                    }
+                ]
+            },
+            {
+                "alignment": "center",
+                "structure": [
+                    {
+                        "type": "text",
+                        "text": "What is CF",
+                        "size": "title"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Construindo o Futuro is an organization of teenagers who develop social and environmental projects to solve the problems of their communities",
+                        "size": "text"
+                    },
+                    {
+                        "type": "cards",
+                        "list": [
+                            {
+                                "type": "icon",
+                                "structure": [
+                                    {
+                                        "type": "icon",
+                                        "icon": "feather:eye",
+                                        "color": "#3b82f6",
+                                        "size": "card-icon"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Vision",
+                                        "size": "title"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Engage young leaders from different communities in Brazil and around the world to become true agents of change where they live and, thus, conquer opportunities and places of speech.",
+                                        "size": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "icon",
+                                "structure": [
+                                    {
+                                        "type": "icon",
+                                        "icon": "feather:heart",
+                                        "color": "#ef4444",
+                                        "size": "card-icon"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Values",
+                                        "size": "title"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Youth protagonism \n Community service \n Respect for diversity \n Integrity \n Goodwill \n Inclusive and sustainable economic growth.",
+                                        "size": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "icon",
+                                "structure": [
+                                    {
+                                        "type": "icon",
+                                        "icon": "feather:star",
+                                        "color": "#eab308",
+                                        "size": "card-icon"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Mission",
+                                        "size": "title"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Is to promote sustainable development in every school and community by connecting and empowering local youth to be real change-makers.",
+                                        "size": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "background": "/assets/images/photos/camisa.jpg",
+                "alignment": "left",
+                "structure": [
+                    {
+                        "type": "text",
+                        "text": "CF Creations",
+                        "size": "title"
+                    },
+                    {
+                        "type": "text",
+                        "text": "We develop projects based on the United Nations Sustainable Development Goals. Get to know the initiatives implemented by our volunteers",
+                        "size": "text"
+                    },
+                    {
+                        "type": "button",
+                        "text": "Projetos"
+                    }
+                ]
+            },
+            {
+                "alignment": "spaced",
+                "structure": [
+                    {
+                        "type": "impact-numbers",
+                        "list": [
+                            {
+                                "title": "CF Members",
+                                "plus": true,
+                                "value": 400
+                            },
+                            {
+                                "title": "People Impacted",
+                                "value": 6000
+                            },
+                            {
+                                "title": "Countries",
+                                "value": 15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "alignment": "spaced",
+                "join": "top",
+                "structure": [
+                    {
+                        "type": "depositions",
+                        "list": [
+                            {
+                                "img": "assets/images/avatars/Marcos Gabriel.jpg",
+                                "text": "CF exceeded all my expectations. Here I could meet and learn with new people from different cultures and places. I learned that I can do something to change my surroundings and I will carry the knowledge I gained here for the rest of my life. CF has turned me into an agent of change!",
+                                "author": "Marcos Gabriel Maiah",
+                                "role": "CF Ambassador in the 2021 Cycle, in Imaculada (PB)"
+                            },
+                            {
+                                "img": "assets/images/avatars/Lyandra Zamboni.jpg",
+                                "text": "My experience at the CF Bootcamp was fantastic. I hope that many more young people will have the opportunity to participate in it and realize how much our world needs to change and that we, young people, can be active in this change! I carry in my heart everything I learned and every extraordinary person I met on this journey. Now I know that I am not alone in my will to make a difference!",
+                                "author": "Lyandra Zamboni",
+                                "role": "CF Ambassador in the 2021 Cycle, in Jaborandi (SP)"
+                            },
+                            {
+                                "img": "assets/images/avatars/Rosalinda Rodrigues.jpg",
+                                "text": "I am very grateful to CF for having received me so well. Hearing about the experiences of people from all over the world making a difference touched me so deeply and brought me hope. There are no words to describe how much I grew thanks to CF!",
+                                "author": "Rosalinda Rodrigues",
+                                "role": "CF Coordinator in the 2022 Cycle, in Manaus (AM)"
+                            },
+                            {
+                                "img": "assets/images/avatars/Marina Pacheco.jpg",
+                                "text": "I've always been very shy and never had many friends, so I was usually not heard when I talked to people about socio-environmental issues. However, at CF I found people who not only care about the same causes as I do, but I found a space where I am heard and can be myself",
+                                "author": "Marina Pacheco",
+                                "role": "CF Ambassador at the PH Botafogo College (Rio de Janeiro)"
+                            },
+                            {
+                                "img": "assets/images/avatars/Lyandra Zamboni.jpg",
+                                "text": "I am delighted to be founding one of CF's first embassies in Mexico. CF has been a fantastic opportunity not only for me to create change and learn to be a leader in my own community but to meet people from all over the world and create a space where we all feel supported and can share our experiences.",
+                                "author": "Karina Castañeda Tellez",
+                                "role": "CF Ambassador in Mexico (embasssy Sentinella Mx Salud Mental)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "background": "/assets/images/photos/run.png",
+                "alignment": "left",
+                "structure": [
+                    {
+                        "type": "text",
+                        "text": "Join our embassies",
+                        "size": "title"
+                    },
+                    {
+                        "type": "text",
+                        "text": "CF embassies are groups of young people who come together to work together towards sustainable development and the UN SDGs in their schools, universities, communities, cities and regions.",
+                        "size": "text"
+                    },
+                    {
+                        "type": "button",
+                        "text": "Projects"
+                    }
+                ]
+            },
+            {
+                "alignment": "center",
+                "structure": [
+                    {
+                        "type": "text",
+                        "text": "CF in the media",
+                        "size": "title"
+                    },
+                    {
+                        "type": "cards",
+                        "list": [
+                            {
+                                "type": "article",
+                                "image": "/assets/images/photos/Juliana-Jannot_1.jpg",
+                                "title": "Teenager who at age 14 campaigned to help Venezuelan refugees competes for award",
+                                "subtitle": "Text published by Jornal O Globo - December 2020",
+                                "button": "Read more",
+                                "link": "https://oglobo.globo.com/rio/bairros/adolescente-que-aos-14-anos-fez-campanha-para-ajudar-refugiados-venezuelanos-concorre-premio-24799895"
+                            },
+                            {
+                                "type": "article",
+                                "image": "/assets/images/photos/cropped-REVISTA-FRAUDE-MARCA-op-1-1024x700-1.webp",
+                                "title": "Meet teenagers who organize and fight to defend social causes",
+                                "subtitle": "Text published by Revista Fraude, from UFBA - July 2021",
+                                "button": "Read more",
+                                "link": "https://www.revistafraude.ufba.br/novafraude/jovem-pega-a-visao/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "navigation": {
+        "Home": "Home",
+        "Sobre nós": "About us",
+        "Quem nós somos": "Who we are",
+        "Nosso time": "Our team",
+        "Contato": "Contact",
+        "Faça parte": "Take part",
+        "Programa de Embaixadores": "Ambassador Program",
+        "Comunidade": "Community"
+    }
+}
