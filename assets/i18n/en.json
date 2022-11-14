@@ -2,7 +2,7 @@
     "pages": {
         "Home": [
             {
-                "background": "/assets/images/photos/roda.jpg",
+                "video": "/assets/video/main.mp4",
                 "alignment": "center",
                 "size": "main",
                 "structure": [
