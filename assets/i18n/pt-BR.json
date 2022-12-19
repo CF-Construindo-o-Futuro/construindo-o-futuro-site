@@ -4,6 +4,7 @@
         "Home": [
             {
                 "video": "/assets/video/main.mp4",
+                "background": "/assets/video/main.png",
                 "alignment": "center",
                 "size": "main",
                 "structure": [
